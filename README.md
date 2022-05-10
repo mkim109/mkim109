@@ -12,9 +12,9 @@ You can click the Preview link to take a look at your changes.
 
 # Welcome to my GitHub!
 
-👩🏻‍💻 I am a Software Engineer
-🎨 In my previous life I worked in the art industry
-🌱 I’m currently learning: React Native, TypeScript
-📫 How to reach me: 
+- 👩🏻‍💻 I am a Software Engineer
+- 🎨 In my previous life I worked in the art industry
+- 🌱 I’m currently learning: React Native, TypeScript
+- 📫 How to reach me:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkim109&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
